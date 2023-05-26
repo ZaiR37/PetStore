@@ -3,19 +3,19 @@
 		<div class="header-container">
 			<div class="logo">
 				<a href="#home">
-					<img src="../assets/petShop-logo.webp" alt="petShop-logo" />
+					<img src="../assets/icons/petShop-logo.webp" alt="petShop-logo" />
 				</a>
 			</div>
 			<form action="" method="get" name="simpleSearch" novalidat class="searchBar-wrapper">
 				<input type="text" name="searchbar" id="searchbar" placeholder="Search" />
 				<button type="submit">
-					<img src="../assets/search-icon.svg" alt="search-icon" />
+					<img src="../assets/icons/search-icon.svg" alt="search-icon" />
 				</button>
 			</form>
 			<div class="signIn">
 				<a href="#SignIn" id="signInLink">
 					Sign In
-					<img src="../assets/chevron-up.svg" alt="chevron-up" />
+					<img src="../assets/icons/chevron-up.svg" alt="chevron-up" />
 				</a>
 				<div class="signUp-box">
 					<span>Don't have an acount ?
@@ -24,7 +24,7 @@
 			</div>
 			<div class="cart">
 				<a href="#cart">
-					<img src="../assets/cart-icon.svg" alt="cart">
+					<img src="../assets/icons/cart-icon.svg" alt="cart">
 				</a>
 			</div>
 		</div>

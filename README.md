@@ -1,4 +1,4 @@
-# petshop-web
+# PETSHOP WEBSITE
 
 ## Project setup
 ```

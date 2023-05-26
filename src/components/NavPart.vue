@@ -2,44 +2,44 @@
 	<nav>
 		<button class="menuButton">
 			Menu
-			<img src="../assets/menu-icon.svg" alt="menu-icon">
+			<img src="../assets/icons/menu-icon.svg" alt="menu-icon">
 		</button>
 
 		<ul class="nav-container">
 			<li class="navContent signNCart">
 				<a href="">
 					Sign In
-					<img src="../assets/petSupplies-icon.svg" alt="petSupplies-icon" id="petSupplies-icon">
+					<img src="../assets/icons/petSupplies-icon.svg" alt="petSupplies-icon" id="petSupplies-icon">
 				</a>
 
 				<a href="">
-					<img src="../assets/cart-icon.svg" alt="petSupplies-icon" id="petSupplies-icon">
+					<img src="../assets/icons/cart-icon.svg" alt="petSupplies-icon" id="petSupplies-icon">
 				</a>
 			</li>
 
 			<li class="navContent">
 				<a href="#petSupplies">
 					Pet Supplies
-					<img src="../assets/petSupplies-icon.svg" alt="petSupplies-icon" id="petSupplies-icon">
+					<img src="../assets/icons/petSupplies-icon.svg" alt="petSupplies-icon" id="petSupplies-icon">
 
 				</a>
 			</li>
 			<li class="navContent">
 				<a href="#petService">
 					Pet Service
-					<img src="../assets/petService-icon.svg" alt="petService-icon" id="petService-icon">
+					<img src="../assets/icons/petService-icon.svg" alt="petService-icon" id="petService-icon">
 				</a>
 			</li>
 			<li class="navContent">
 				<a href="#petClinic">
 					Pet Clinic
-					<img src="../assets/pharmacy-icon.svg" alt="petClinic-icon" id="petClinic-icon">
+					<img src="../assets/icons/pharmacy-icon.svg" alt="petClinic-icon" id="petClinic-icon">
 				</a>
 			</li>
 			<li class="navContent">
 				<a href="#about">
 					About
-					<img src="../assets/about-icon.svg" alt="about-icon" id="about-icon">
+					<img src="../assets/icons/about-icon.svg" alt="about-icon" id="about-icon">
 				</a>
 			</li>
 		</ul>
@@ -57,7 +57,9 @@ nav {
 	background-color: #0f5bdd;
 }
 
-
+.menuButton {
+	display: none;
+}
 
 .nav-container {
 	display: flex;
