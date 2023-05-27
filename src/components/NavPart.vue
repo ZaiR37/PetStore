@@ -130,6 +130,7 @@ nav {
 	}
 
 	.menuButton {
+		display: block;
 		border: none;
 		background-color: #0f5bdd;
 		color: white;
